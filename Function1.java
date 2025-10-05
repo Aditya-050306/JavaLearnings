@@ -10,6 +10,6 @@ public class Function1 {
         int a =sc.nextInt();
         int b= sc.nextInt();
         int sum= calculateSum(a,b);
-        System.out.print("Sum= "+sum);
+        System.out.print("Sum="+ sum);
     }
 }
