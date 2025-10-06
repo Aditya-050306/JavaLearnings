@@ -26,8 +26,7 @@ public class Array2 {
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
                 if(arr[i][j]==x){
-                    System.out.print(i+" ");
-                    System.out.print(j);
+                    System.out.print(i+" "+j);
                 }
             }
         }
