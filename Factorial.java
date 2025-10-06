@@ -12,7 +12,6 @@ public class Factorial {
            
         }
         System.out.println("Factorial of number= "+fact);
-        
     }
     public static void main(String[] args) {
         System.out.print("Enter any Number ");
