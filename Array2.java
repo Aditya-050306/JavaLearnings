@@ -30,6 +30,6 @@ public class Array2 {
                 }
             }
         }
-        sc.close();
+    sc.close();
     }
 }
