@@ -75,7 +75,7 @@ public class StringMethod {
         System.out.println("Concatenated string: "+ word1.concat(word2));
     }
     static void substring(Scanner sc){
-        String word1=sc.nextLine();
+        String word1=sc.next();
         System.out.println("Substring from index 0 to 5: "+ word1.substring(0, 5));
     }
     static void replace(Scanner sc){
